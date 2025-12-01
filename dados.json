@@ -17,10 +17,13 @@
     }
   },
   "financasConfig": {
-    "mesReferencia": "2025-12",
     "salario": 1914,
     "descontarINSS": true,
     "objetivoMensal": 3000,
+    "gastosFixos": [],
+    "gastosVariaveis": [],
+    "sonhos": [],
+    "mesReferencia": "2025-12",
     "porcentagemPoupanca": 10,
     "limiteGastos": 2000,
     "metasSDR": {
