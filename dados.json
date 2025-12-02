@@ -17,10 +17,13 @@
     }
   },
   "financasConfig": {
-    "mesReferencia": "2025-12",
     "salario": 1914,
     "descontarINSS": true,
     "objetivoMensal": 3000,
+    "gastosFixos": [],
+    "gastosVariaveis": [],
+    "sonhos": [],
+    "mesReferencia": "2025-12",
     "porcentagemPoupanca": 10,
     "limiteGastos": 2000,
     "metasSDR": {
@@ -5740,6 +5743,18 @@
       "observacao": "",
       "dataHora": "2025-12-02T16:39:26.269Z",
       "id": 1764693570407,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1764592676631,
+      "atendente": "",
+      "ehResponsavel": false,
+      "status": "Primeiro Contato",
+      "observacao": "",
+      "dataHora": "2025-12-02T20:16:16.752Z",
+      "meioContato": "Ligação",
+      "id": 1764706586396,
       "historicoImportado": false,
       "contatoReal": true
     }
