@@ -1099,6 +1099,94 @@
       "uf": "PR",
       "cidade": "Curitiba",
       "responsavel": "PAULO "
+    },
+    {
+      "id": 1764684370920,
+      "nome": " Ótica lia's",
+      "telefone": "99984582656",
+      "uf": "MA",
+      "cidade": "São Luís Gonzaga do Maranhão",
+      "responsavel": "Elisabete Loopes"
+    },
+    {
+      "id": 1764684979242,
+      "nome": "Ótica efata",
+      "telefone": "2159269195",
+      "uf": "RJ",
+      "cidade": "São Gonçalo",
+      "responsavel": "Zima"
+    },
+    {
+      "id": 1764685268968,
+      "nome": " Centro ótico cerro azul",
+      "telefone": "41985191120",
+      "uf": "PR",
+      "cidade": "Cerro Azul",
+      "responsavel": " Fatima Godoy"
+    },
+    {
+      "id": 1764685453010,
+      "nome": "ÓTICAS & CIA",
+      "telefone": "49991855775",
+      "uf": "SC",
+      "cidade": "Concórdia",
+      "responsavel": ""
+    },
+    {
+      "id": 1764686383487,
+      "nome": "Studio dos Óculos",
+      "telefone": "21998591415",
+      "uf": "RJ",
+      "cidade": "Niterói",
+      "responsavel": ""
+    },
+    {
+      "id": 1764686641179,
+      "nome": "Ticel Ótica",
+      "telefone": "21984443472",
+      "uf": "RJ",
+      "cidade": "Rio de Janeiro",
+      "responsavel": " Giani Silva"
+    },
+    {
+      "id": 1764686862862,
+      "nome": "ótica Mesu",
+      "telefone": "21980267671",
+      "uf": "RJ",
+      "cidade": "Rio de Janeiro",
+      "responsavel": " Garcia Miguel"
+    },
+    {
+      "id": 1764687108540,
+      "nome": "Ótica VisMax",
+      "telefone": "21985603548",
+      "uf": "RJ",
+      "cidade": "Itaguaí",
+      "responsavel": "Marcio Rodrigues"
+    },
+    {
+      "id": 1764687357155,
+      "nome": "Galeria das armações",
+      "telefone": "41998017929",
+      "uf": "PR",
+      "cidade": "Curitiba",
+      "responsavel": " Janaina Santoro Szabelski"
+    },
+    {
+      "id": 1764687693852,
+      "nome": "Jocemara Suzena",
+      "telefone": "",
+      "uf": "SC",
+      "cidade": "Blumenau",
+      "responsavel": "Jocemara Suzena"
+    },
+    {
+      "id": 1764687938444,
+      "nome": "OTICA PAVEZI",
+      "telefone": "41995853477",
+      "uf": "PR",
+      "cidade": "Curitiba",
+      "responsavel": "Herbert Richard"
     }
   ],
   "contatos": [
@@ -5417,6 +5505,126 @@
       "observacao": "",
       "dataHora": "2025-12-02T12:01:56.055Z",
       "id": 1764676926625,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1764684370920,
+      "atendente": "",
+      "status": "Primeiro Contato",
+      "observacao": "mensagem por whatsapp ",
+      "dataHora": "2025-12-02T14:06:50.876Z",
+      "id": 1764684449820,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1764684979242,
+      "atendente": "",
+      "status": "Primeiro Contato",
+      "observacao": "contato via whatsapp ",
+      "dataHora": "2025-12-02T14:17:07.886Z",
+      "id": 1764685044634,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1764685268968,
+      "atendente": "",
+      "status": "Primeiro Contato",
+      "observacao": "whatsapp",
+      "dataHora": "2025-12-02T14:21:33.715Z",
+      "id": 1764685305533,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1764685453010,
+      "atendente": "",
+      "status": "Primeiro Contato",
+      "observacao": "WHATSAPP ",
+      "dataHora": "2025-12-02T14:24:39.579Z",
+      "id": 1764685488284,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1768806732,
+      "atendente": "",
+      "status": "Retorno",
+      "observacao": "",
+      "dataHora": "2025-12-02T14:31:12.233Z",
+      "id": 1764685880159,
+      "historicoImportado": false,
+      "contatoReal": false
+    },
+    {
+      "oticaId": 2781870371,
+      "atendente": "",
+      "status": "Retorno",
+      "observacao": "",
+      "dataHora": "2025-12-02T14:41:27.685Z",
+      "id": 1764686493235,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1764686862862,
+      "atendente": "",
+      "status": "Primeiro Contato",
+      "observacao": "whstaoo",
+      "dataHora": "2025-12-02T14:49:00.919Z",
+      "id": 1764686949458,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1764686641179,
+      "atendente": "",
+      "status": "Primeiro Contato",
+      "observacao": "wpp",
+      "dataHora": "2025-12-02T14:49:31.846Z",
+      "id": 1764686978218,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1764687108540,
+      "atendente": "",
+      "status": "Primeiro Contato",
+      "observacao": "wpp",
+      "dataHora": "2025-12-02T14:52:09.670Z",
+      "id": 1764687140008,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1764687357155,
+      "atendente": "",
+      "status": "Primeiro Contato",
+      "observacao": "",
+      "dataHora": "2025-12-02T14:56:19.820Z",
+      "id": 1764687386578,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1764687693852,
+      "atendente": "",
+      "status": "Primeiro Contato",
+      "observacao": "",
+      "dataHora": "2025-12-02T15:01:44.452Z",
+      "id": 1764687709070,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1764687938444,
+      "atendente": "",
+      "status": "Contato com Decisor",
+      "observacao": "",
+      "dataHora": "2025-12-02T15:06:16.909Z",
+      "id": 1764687988569,
       "historicoImportado": false,
       "contatoReal": true
     }
