@@ -5309,6 +5309,116 @@
       "id": 1764592701882,
       "historicoImportado": false,
       "contatoReal": true
+    },
+    {
+      "oticaId": 2921583986,
+      "atendente": "",
+      "status": "Retorno",
+      "observacao": "",
+      "dataHora": "2025-12-02T11:59:59.729Z",
+      "id": 1764676811260,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1768806732,
+      "atendente": "",
+      "status": "Retorno",
+      "observacao": "",
+      "dataHora": "2025-12-02T12:00:12.801Z",
+      "id": 1764676825395,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 2625801387,
+      "atendente": "",
+      "status": "Retorno",
+      "observacao": "",
+      "dataHora": "2025-12-02T12:00:27.413Z",
+      "id": 1764676838865,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 2356666364,
+      "atendente": "",
+      "status": "Retorno",
+      "observacao": "",
+      "dataHora": "2025-12-02T12:00:40.465Z",
+      "id": 1764676849722,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 3661791710,
+      "atendente": "",
+      "status": "Retorno",
+      "observacao": "",
+      "dataHora": "2025-12-02T12:00:50.603Z",
+      "id": 1764676858345,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1381982365,
+      "atendente": "",
+      "status": "Retorno",
+      "observacao": "",
+      "dataHora": "2025-12-02T12:00:59.213Z",
+      "id": 1764676869063,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 3864685159,
+      "atendente": "",
+      "status": "Retorno",
+      "observacao": "",
+      "dataHora": "2025-12-02T12:01:10.147Z",
+      "id": 1764676881009,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1764093503805,
+      "atendente": "",
+      "status": "Retorno",
+      "observacao": "",
+      "dataHora": "2025-12-02T12:01:22.001Z",
+      "id": 1764676890293,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1764094027829,
+      "atendente": "",
+      "status": "Retorno",
+      "observacao": "",
+      "dataHora": "2025-12-02T12:01:31.175Z",
+      "id": 1764676904910,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 3979007460,
+      "atendente": "",
+      "status": "Retorno",
+      "observacao": "",
+      "dataHora": "2025-12-02T12:01:49.348Z",
+      "id": 1764676915081,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 2220600504,
+      "atendente": "",
+      "status": "Retorno",
+      "observacao": "",
+      "dataHora": "2025-12-02T12:01:56.055Z",
+      "id": 1764676926625,
+      "historicoImportado": false,
+      "contatoReal": true
     }
   ],
   "acoes": []
