@@ -17,13 +17,10 @@
     }
   },
   "financasConfig": {
+    "mesReferencia": "2025-12",
     "salario": 1914,
     "descontarINSS": true,
     "objetivoMensal": 3000,
-    "gastosFixos": [],
-    "gastosVariaveis": [],
-    "sonhos": [],
-    "mesReferencia": "2025-12",
     "porcentagemPoupanca": 10,
     "limiteGastos": 2000,
     "metasSDR": {
@@ -734,7 +731,7 @@
     },
     {
       "id": 434148315,
-      "nome": "ÓTICA SHEKINAH",
+      "nome": "4371 -ÓTICA SHEKINAH",
       "telefone": "",
       "uf": "RJ",
       "cidade": "Duque de Caxias",
@@ -1187,6 +1184,14 @@
       "uf": "PR",
       "cidade": "Curitiba",
       "responsavel": "Herbert Richard"
+    },
+    {
+      "id": 1764691708202,
+      "nome": "Novo visual",
+      "telefone": "19981633070",
+      "uf": "RJ",
+      "cidade": "Araruama",
+      "responsavel": ""
     }
   ],
   "contatos": [
@@ -5627,7 +5632,137 @@
       "id": 1764687988569,
       "historicoImportado": false,
       "contatoReal": true
+    },
+    {
+      "oticaId": 1549762949,
+      "atendente": "",
+      "status": "Contato com Decisor",
+      "observacao": "",
+      "dataHora": "2025-12-02T15:58:07.665Z",
+      "id": 1764691615513,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1764691708202,
+      "atendente": "",
+      "status": "Contato com Decisor",
+      "observacao": "",
+      "dataHora": "2025-12-02T16:08:47.548Z",
+      "id": 1764691735031,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 3545111744,
+      "atendente": "",
+      "status": "Retorno",
+      "observacao": "",
+      "dataHora": "2025-12-02T16:10:09.372Z",
+      "id": 1764691815861,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 434148315,
+      "atendente": "gisele",
+      "status": "Contato com Decisor",
+      "observacao": "",
+      "dataHora": "2025-12-02T16:11:28.854Z",
+      "id": 1764691903122,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1549762949,
+      "atendente": "",
+      "status": "Retorno",
+      "observacao": "",
+      "dataHora": "2025-12-02T16:15:45.975Z",
+      "id": 1764692154588,
+      "historicoImportado": false,
+      "contatoReal": false
+    },
+    {
+      "oticaId": 768765477,
+      "atendente": "",
+      "status": "Retorno",
+      "observacao": "",
+      "dataHora": "2025-12-02T16:17:14.817Z",
+      "id": 1764692241209,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 434148315,
+      "atendente": "",
+      "status": "Apresentação",
+      "observacao": "",
+      "dataHora": "2025-12-02T16:21:39.513Z",
+      "id": 1764692507469,
+      "historicoImportado": false,
+      "contatoReal": false
+    },
+    {
+      "oticaId": 2969512470,
+      "atendente": "",
+      "status": "Apresentação",
+      "observacao": "",
+      "dataHora": "2025-12-02T16:23:24.410Z",
+      "id": 1764692612292,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 434148315,
+      "atendente": "",
+      "status": "Cadastro Realizado",
+      "observacao": "",
+      "dataHora": "2025-12-02T16:32:49.451Z",
+      "id": 1764693175248,
+      "historicoImportado": false,
+      "contatoReal": false
+    },
+    {
+      "oticaId": 1298362016,
+      "atendente": "",
+      "status": "Retorno",
+      "observacao": "",
+      "dataHora": "2025-12-02T16:38:39.168Z",
+      "id": 1764693524463,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1367493309,
+      "atendente": "",
+      "status": "Retorno",
+      "observacao": "",
+      "dataHora": "2025-12-02T16:39:26.269Z",
+      "id": 1764693570407,
+      "historicoImportado": false,
+      "contatoReal": true
     }
   ],
-  "acoes": []
+  "acoes": [],
+  "financasPessoais": {
+    "2025-12": {
+      "gastosFixos": [
+        {
+          "nome": "aluguel ",
+          "valor": 1000
+        }
+      ],
+      "gastosVariaveis": [],
+      "carteira": 0
+    }
+  },
+  "sonhos": [
+    {
+      "nome": "notebook ",
+      "valorMeta": 4000,
+      "saldo": 0,
+      "historico": []
+    }
+  ]
 }
