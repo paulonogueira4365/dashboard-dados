@@ -1195,6 +1195,14 @@
       "uf": "RJ",
       "cidade": "Araruama",
       "responsavel": ""
+    },
+    {
+      "id": 1764759510140,
+      "nome": "Centro ótico cerro azul",
+      "telefone": "41985191120",
+      "uf": "PR",
+      "cidade": "Cerro Azul",
+      "responsavel": "Fatima"
     }
   ],
   "contatos": [
@@ -5743,18 +5751,6 @@
       "observacao": "",
       "dataHora": "2025-12-02T16:39:26.269Z",
       "id": 1764693570407,
-      "historicoImportado": false,
-      "contatoReal": true
-    },
-    {
-      "oticaId": 1764592676631,
-      "atendente": "",
-      "ehResponsavel": false,
-      "status": "Primeiro Contato",
-      "observacao": "",
-      "dataHora": "2025-12-02T20:16:16.752Z",
-      "meioContato": "Ligação",
-      "id": 1764706586396,
       "historicoImportado": false,
       "contatoReal": true
     }
