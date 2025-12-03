@@ -6166,6 +6166,18 @@
       "historicoImportado": false,
       "contatoReal": true,
       "meioContato": "WhatsApp"
+    },
+    {
+      "oticaId": 1764685268968,
+      "atendente": "",
+      "ehResponsavel": false,
+      "status": "Cadastro Realizado",
+      "observacao": "",
+      "dataHora": "2025-12-03T12:22:38.196Z",
+      "meioContato": "WhatsApp",
+      "id": 1764764570280,
+      "historicoImportado": false,
+      "contatoReal": true
     }
   ],
   "acoes": [],
