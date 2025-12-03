@@ -17,15 +17,20 @@
     }
   },
   "financasConfig": {
+    "mesReferencia": "2025-12",
     "salario": 1914,
     "descontarINSS": true,
     "objetivoMensal": 3000,
-    "gastosFixos": [],
-    "gastosVariaveis": [],
-    "sonhos": [],
-    "mesReferencia": "2025-12",
     "porcentagemPoupanca": 10,
     "limiteGastos": 2000,
+    "diasUteis": 22,
+    "comissaoPedido": 50,
+    "bonus": {
+      "faixa15": 50,
+      "faixa20": 100,
+      "faixa30": 150,
+      "faixa40": 200
+    },
     "metasSDR": {
       "contatosDia": 40,
       "taxaCadastro": 30,
@@ -1217,7 +1222,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000003,
@@ -1230,7 +1236,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000004,
@@ -1243,7 +1250,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000005,
@@ -1256,7 +1264,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000006,
@@ -1269,7 +1278,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000007,
@@ -1282,7 +1292,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000009,
@@ -1295,7 +1306,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000010,
@@ -1308,7 +1320,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000011,
@@ -1321,7 +1334,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000012,
@@ -1334,7 +1348,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000013,
@@ -1347,7 +1362,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000014,
@@ -1360,7 +1376,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000015,
@@ -1373,7 +1390,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000016,
@@ -1386,7 +1404,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000017,
@@ -1399,7 +1418,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000018,
@@ -1412,7 +1432,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000019,
@@ -1425,7 +1446,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000022,
@@ -1438,7 +1460,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000023,
@@ -1451,7 +1474,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000024,
@@ -1464,7 +1488,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000025,
@@ -1477,7 +1502,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000026,
@@ -1490,7 +1516,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000028,
@@ -1503,7 +1530,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000030,
@@ -1516,7 +1544,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000031,
@@ -1529,7 +1558,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000032,
@@ -1542,7 +1572,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000033,
@@ -1555,7 +1586,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000034,
@@ -1568,7 +1600,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000035,
@@ -1581,7 +1614,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000038,
@@ -1594,7 +1628,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000039,
@@ -1607,7 +1642,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000040,
@@ -1620,7 +1656,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000041,
@@ -1633,7 +1670,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000043,
@@ -1646,7 +1684,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000044,
@@ -1659,7 +1698,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000046,
@@ -1672,7 +1712,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000047,
@@ -1685,7 +1726,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000049,
@@ -1698,7 +1740,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000051,
@@ -1711,7 +1754,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000052,
@@ -1724,7 +1768,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000054,
@@ -1737,7 +1782,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000055,
@@ -1750,7 +1796,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000056,
@@ -1763,7 +1810,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000057,
@@ -1776,7 +1824,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000058,
@@ -1789,7 +1838,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000059,
@@ -1802,7 +1852,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000060,
@@ -1815,7 +1866,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000061,
@@ -1828,7 +1880,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000063,
@@ -1841,7 +1894,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000064,
@@ -1854,7 +1908,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000065,
@@ -1867,7 +1922,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000068,
@@ -1880,7 +1936,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000070,
@@ -1893,7 +1950,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000075,
@@ -1906,7 +1964,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000077,
@@ -1919,7 +1978,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000078,
@@ -1932,7 +1992,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000080,
@@ -1945,7 +2006,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000081,
@@ -1958,7 +2020,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000082,
@@ -1971,7 +2034,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000083,
@@ -1984,7 +2048,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000085,
@@ -1997,7 +2062,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000086,
@@ -2010,7 +2076,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000087,
@@ -2023,7 +2090,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000088,
@@ -2036,7 +2104,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000089,
@@ -2049,7 +2118,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000090,
@@ -2062,7 +2132,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000093,
@@ -2075,7 +2146,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000094,
@@ -2088,7 +2160,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000098,
@@ -2101,7 +2174,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000099,
@@ -2114,7 +2188,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000100,
@@ -2127,7 +2202,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000101,
@@ -2140,7 +2216,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000102,
@@ -2153,7 +2230,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000104,
@@ -2166,7 +2244,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000107,
@@ -2179,7 +2258,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000109,
@@ -2192,7 +2272,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000111,
@@ -2205,7 +2286,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000112,
@@ -2218,7 +2300,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000113,
@@ -2231,7 +2314,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000114,
@@ -2244,7 +2328,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000116,
@@ -2257,7 +2342,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000117,
@@ -2270,7 +2356,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000118,
@@ -2283,7 +2370,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000119,
@@ -2296,7 +2384,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000121,
@@ -2309,7 +2398,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000124,
@@ -2322,7 +2412,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000125,
@@ -2335,7 +2426,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000128,
@@ -2348,7 +2440,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000129,
@@ -2361,7 +2454,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000131,
@@ -2374,7 +2468,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000132,
@@ -2387,7 +2482,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000134,
@@ -2400,7 +2496,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000135,
@@ -2413,7 +2510,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000138,
@@ -2426,7 +2524,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000140,
@@ -2439,7 +2538,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000141,
@@ -2452,7 +2552,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000142,
@@ -2465,7 +2566,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000143,
@@ -2478,7 +2580,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000144,
@@ -2491,7 +2594,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000146,
@@ -2504,7 +2608,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000147,
@@ -2517,7 +2622,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000148,
@@ -2530,7 +2636,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000149,
@@ -2543,7 +2650,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000153,
@@ -2556,7 +2664,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000157,
@@ -2569,7 +2678,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000158,
@@ -2582,7 +2692,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000159,
@@ -2595,7 +2706,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000163,
@@ -2608,7 +2720,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000164,
@@ -2621,7 +2734,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000165,
@@ -2634,7 +2748,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000166,
@@ -2647,7 +2762,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000167,
@@ -2660,7 +2776,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000173,
@@ -2673,7 +2790,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000179,
@@ -2686,7 +2804,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000182,
@@ -2699,7 +2818,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000183,
@@ -2712,7 +2832,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000193,
@@ -2725,7 +2846,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000196,
@@ -2738,7 +2860,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000197,
@@ -2751,7 +2874,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000198,
@@ -2764,7 +2888,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000199,
@@ -2777,7 +2902,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000200,
@@ -2790,7 +2916,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000202,
@@ -2803,7 +2930,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000204,
@@ -2816,7 +2944,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000206,
@@ -2829,7 +2958,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000207,
@@ -2842,7 +2972,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000208,
@@ -2855,7 +2986,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000210,
@@ -2868,7 +3000,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000211,
@@ -2881,7 +3014,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000214,
@@ -2894,7 +3028,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000221,
@@ -2907,7 +3042,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000228,
@@ -2920,7 +3056,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000234,
@@ -2933,7 +3070,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000235,
@@ -2946,7 +3084,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000239,
@@ -2959,7 +3098,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000241,
@@ -2972,7 +3112,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000242,
@@ -2985,7 +3126,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000247,
@@ -2998,7 +3140,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000250,
@@ -3011,7 +3154,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000261,
@@ -3024,7 +3168,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000262,
@@ -3037,7 +3182,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000267,
@@ -3050,7 +3196,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000268,
@@ -3063,7 +3210,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 17640223000275,
@@ -3076,7 +3224,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764084994519,
@@ -3089,7 +3238,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764086101210,
@@ -3102,7 +3252,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764092357125,
@@ -3115,7 +3266,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764092788758,
@@ -3128,7 +3280,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764092940968,
@@ -3141,7 +3294,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764093164552,
@@ -3154,7 +3308,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764093275393,
@@ -3167,7 +3322,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764093636887,
@@ -3180,7 +3336,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764093886582,
@@ -3193,7 +3350,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764094670506,
@@ -3206,7 +3364,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764094779852,
@@ -3219,7 +3378,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764094922495,
@@ -3232,7 +3392,8 @@
       "criadoEm": "2025-11-28T12:00:00",
       "pedido": false,
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": "1764349210938",
@@ -3242,7 +3403,8 @@
       "observacao": "",
       "dataHora": "2025-11-28T17:02:02.688Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 3430436231,
@@ -3252,7 +3414,8 @@
       "observacao": "Reescrito: etapa criada via reescrever histórico",
       "dataHora": "2025-11-28T23:41:07.875Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 3430436231,
@@ -3262,7 +3425,8 @@
       "observacao": "Reescrito: etapa criada via reescrever histórico",
       "dataHora": "2025-11-28T23:41:08.875Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 3430436231,
@@ -3272,7 +3436,8 @@
       "observacao": "Reescrito: etapa criada via reescrever histórico",
       "dataHora": "2025-11-28T23:41:09.875Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 2424155746,
@@ -3282,7 +3447,8 @@
       "observacao": "Reescrito: etapa criada via reescrever histórico",
       "dataHora": "2025-11-28T23:42:13.547Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 2424155746,
@@ -3292,7 +3458,8 @@
       "observacao": "Reescrito: etapa criada via reescrever histórico",
       "dataHora": "2025-11-28T23:42:14.547Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 2424155746,
@@ -3302,7 +3469,8 @@
       "observacao": "Reescrito: etapa criada via reescrever histórico",
       "dataHora": "2025-11-28T23:42:15.547Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 2424155746,
@@ -3312,7 +3480,8 @@
       "observacao": "Reescrito: etapa criada via reescrever histórico",
       "dataHora": "2025-11-28T23:42:16.547Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 2424155746,
@@ -3322,7 +3491,8 @@
       "observacao": "Reescrito: etapa criada via reescrever histórico",
       "dataHora": "2025-11-28T23:42:17.547Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 2424155746,
@@ -3332,7 +3502,8 @@
       "observacao": "Reescrito: etapa criada via reescrever histórico",
       "dataHora": "2025-11-28T23:42:18.547Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 2424155746,
@@ -3342,7 +3513,8 @@
       "observacao": "Reescrito: etapa criada via reescrever histórico",
       "dataHora": "2025-11-28T23:42:19.547Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 3164304881,
@@ -3352,7 +3524,8 @@
       "observacao": "Reescrito: etapa criada via reescrever histórico",
       "dataHora": "2025-11-28T23:42:29.091Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 3164304881,
@@ -3362,7 +3535,8 @@
       "observacao": "Reescrito: etapa criada via reescrever histórico",
       "dataHora": "2025-11-28T23:42:30.091Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 3164304881,
@@ -3372,7 +3546,8 @@
       "observacao": "Reescrito: etapa criada via reescrever histórico",
       "dataHora": "2025-11-28T23:42:31.091Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 3164304881,
@@ -3382,7 +3557,8 @@
       "observacao": "Reescrito: etapa criada via reescrever histórico",
       "dataHora": "2025-11-28T23:42:32.091Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 3164304881,
@@ -3392,7 +3568,8 @@
       "observacao": "Reescrito: etapa criada via reescrever histórico",
       "dataHora": "2025-11-28T23:42:33.091Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 3164304881,
@@ -3402,7 +3579,8 @@
       "observacao": "Reescrito: etapa criada via reescrever histórico",
       "dataHora": "2025-11-28T23:42:34.091Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 3164304881,
@@ -3412,7 +3590,8 @@
       "observacao": "Reescrito: etapa criada via reescrever histórico",
       "dataHora": "2025-11-28T23:42:35.091Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 3164304881,
@@ -3422,7 +3601,8 @@
       "observacao": "Reescrito: etapa criada via reescrever histórico",
       "dataHora": "2025-11-28T23:42:36.091Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 3122246879,
@@ -3432,7 +3612,8 @@
       "observacao": "Reescrito: etapa criada via reescrever histórico",
       "dataHora": "2025-11-28T23:42:35.842Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 3122246879,
@@ -3442,7 +3623,8 @@
       "observacao": "Reescrito: etapa criada via reescrever histórico",
       "dataHora": "2025-11-28T23:42:36.842Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 3122246879,
@@ -3452,7 +3634,8 @@
       "observacao": "Reescrito: etapa criada via reescrever histórico",
       "dataHora": "2025-11-28T23:42:37.842Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 3122246879,
@@ -3462,7 +3645,8 @@
       "observacao": "Reescrito: etapa criada via reescrever histórico",
       "dataHora": "2025-11-28T23:42:38.842Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 3122246879,
@@ -3472,7 +3656,8 @@
       "observacao": "Reescrito: etapa criada via reescrever histórico",
       "dataHora": "2025-11-28T23:42:39.842Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 3122246879,
@@ -3482,7 +3667,8 @@
       "observacao": "Reescrito: etapa criada via reescrever histórico",
       "dataHora": "2025-11-28T23:42:40.842Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 3122246879,
@@ -3492,7 +3678,8 @@
       "observacao": "Reescrito: etapa criada via reescrever histórico",
       "dataHora": "2025-11-28T23:42:41.842Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 3122246879,
@@ -3502,7 +3689,8 @@
       "observacao": "Reescrito: etapa criada via reescrever histórico",
       "dataHora": "2025-11-28T23:42:42.842Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 2927247144,
@@ -3512,7 +3700,8 @@
       "observacao": "Reescrito: etapa criada via reescrever histórico",
       "dataHora": "2025-11-28T23:42:47.475Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 2927247144,
@@ -3522,7 +3711,8 @@
       "observacao": "Reescrito: etapa criada via reescrever histórico",
       "dataHora": "2025-11-28T23:42:48.475Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 2927247144,
@@ -3532,7 +3722,8 @@
       "observacao": "Reescrito: etapa criada via reescrever histórico",
       "dataHora": "2025-11-28T23:42:49.475Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 2927247144,
@@ -3542,7 +3733,8 @@
       "observacao": "Reescrito: etapa criada via reescrever histórico",
       "dataHora": "2025-11-28T23:42:50.475Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 2927247144,
@@ -3552,7 +3744,8 @@
       "observacao": "Reescrito: etapa criada via reescrever histórico",
       "dataHora": "2025-11-28T23:42:51.475Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 2927247144,
@@ -3562,7 +3755,8 @@
       "observacao": "Reescrito: etapa criada via reescrever histórico",
       "dataHora": "2025-11-28T23:42:52.475Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 2927247144,
@@ -3572,7 +3766,8 @@
       "observacao": "Reescrito: etapa criada via reescrever histórico",
       "dataHora": "2025-11-28T23:42:53.475Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764373801985.806,
@@ -3582,7 +3777,8 @@
       "observacao": "",
       "dataHora": "2025-11-28T23:50:01.985Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764373801985.1584,
@@ -3592,7 +3788,8 @@
       "observacao": "",
       "dataHora": "2025-11-28T23:50:01.985Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764373801985.7976,
@@ -3602,7 +3799,8 @@
       "observacao": "",
       "dataHora": "2025-11-28T23:50:01.985Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764373801985.5393,
@@ -3612,7 +3810,8 @@
       "observacao": "",
       "dataHora": "2025-11-28T23:50:01.985Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764373801985.7695,
@@ -3622,7 +3821,8 @@
       "observacao": "",
       "dataHora": "2025-11-28T23:50:01.985Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764373801985.031,
@@ -3632,7 +3832,8 @@
       "observacao": "",
       "dataHora": "2025-11-28T23:50:01.985Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423011380,
@@ -3642,7 +3843,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:30:11.380Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423011381,
@@ -3652,7 +3854,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:30:12.380Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423011382,
@@ -3662,7 +3865,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:30:13.380Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423011383,
@@ -3672,7 +3876,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:30:14.380Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423011384,
@@ -3682,7 +3887,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:30:15.380Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423011385,
@@ -3692,7 +3898,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:30:16.380Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423064906,
@@ -3702,7 +3909,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:31:04.906Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423064907,
@@ -3712,7 +3920,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:31:05.906Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423064908,
@@ -3722,7 +3931,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:31:06.906Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423064909,
@@ -3732,7 +3942,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:31:07.906Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423064910,
@@ -3742,7 +3953,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:31:08.906Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423064911,
@@ -3752,7 +3964,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:31:09.906Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423095951,
@@ -3762,7 +3975,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:31:35.951Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423095952,
@@ -3772,7 +3986,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:31:36.951Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423095953,
@@ -3782,7 +3997,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:31:37.951Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423095954,
@@ -3792,7 +4008,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:31:38.951Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423095955,
@@ -3802,7 +4019,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:31:39.951Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423095956,
@@ -3812,7 +4030,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:31:40.951Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423120577,
@@ -3822,7 +4041,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:32:00.577Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423120578,
@@ -3832,7 +4052,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:32:01.577Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423120579,
@@ -3842,7 +4063,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:32:02.577Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423120580,
@@ -3852,7 +4074,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:32:03.577Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423120581,
@@ -3862,7 +4085,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:32:04.577Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423120582,
@@ -3872,7 +4096,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:32:05.577Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423140138,
@@ -3882,7 +4107,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:32:20.138Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423140139,
@@ -3892,7 +4118,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:32:21.138Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423140140,
@@ -3902,7 +4129,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:32:22.138Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423140141,
@@ -3912,7 +4140,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:32:23.138Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423140142,
@@ -3922,7 +4151,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:32:24.138Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423140143,
@@ -3932,7 +4162,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:32:25.138Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423161388,
@@ -3942,7 +4173,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:32:41.388Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423161389,
@@ -3952,7 +4184,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:32:42.388Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423161390,
@@ -3962,7 +4195,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:32:43.388Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423161391,
@@ -3972,7 +4206,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:32:44.388Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423161392,
@@ -3982,7 +4217,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:32:45.388Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423161393,
@@ -3992,7 +4228,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:32:46.388Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423192513,
@@ -4002,7 +4239,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:33:12.513Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423192514,
@@ -4012,7 +4250,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:33:13.513Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423192515,
@@ -4022,7 +4261,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:33:14.513Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423192516,
@@ -4032,7 +4272,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:33:15.513Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423192517,
@@ -4042,7 +4283,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:33:16.513Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423192518,
@@ -4052,7 +4294,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:33:17.513Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423210540,
@@ -4062,7 +4305,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:33:30.540Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423210541,
@@ -4072,7 +4316,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:33:31.540Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423210542,
@@ -4082,7 +4327,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:33:32.540Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423210543,
@@ -4092,7 +4338,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:33:33.540Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423210544,
@@ -4102,7 +4349,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:33:34.540Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423210545,
@@ -4112,7 +4360,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:33:35.540Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423227273,
@@ -4122,7 +4371,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:33:47.273Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423227274,
@@ -4132,7 +4382,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:33:48.273Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423227275,
@@ -4142,7 +4393,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:33:49.273Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423227276,
@@ -4152,7 +4404,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:33:50.273Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423227277,
@@ -4162,7 +4415,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:33:51.273Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423227278,
@@ -4172,7 +4426,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:33:52.273Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423248219,
@@ -4182,7 +4437,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:34:08.219Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423248220,
@@ -4192,7 +4448,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:34:09.219Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423248221,
@@ -4202,7 +4459,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:34:10.219Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423248222,
@@ -4212,7 +4470,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:34:11.219Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423248223,
@@ -4222,7 +4481,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:34:12.219Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423248224,
@@ -4232,7 +4492,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:34:13.219Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423322239,
@@ -4242,7 +4503,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:35:22.239Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423322240,
@@ -4252,7 +4514,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:35:23.239Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423322241,
@@ -4262,7 +4525,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:35:24.239Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423322242,
@@ -4272,7 +4536,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:35:25.239Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423322243,
@@ -4282,7 +4547,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:35:26.239Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423322244,
@@ -4292,7 +4558,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:35:27.239Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423484605,
@@ -4302,7 +4569,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:38:04.605Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423484606,
@@ -4312,7 +4580,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:38:05.605Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423484607,
@@ -4322,7 +4591,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:38:06.605Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423484608,
@@ -4332,7 +4602,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:38:07.605Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423484609,
@@ -4342,7 +4613,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:38:08.605Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423484610,
@@ -4352,7 +4624,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:38:09.605Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423484611,
@@ -4362,7 +4635,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:38:10.605Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423578876,
@@ -4372,7 +4646,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:39:38.876Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423578877,
@@ -4382,7 +4657,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:39:39.876Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423637204,
@@ -4392,7 +4668,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:40:37.204Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423637205,
@@ -4402,7 +4679,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:40:38.204Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423637206,
@@ -4412,7 +4690,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:40:39.204Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423637207,
@@ -4422,7 +4701,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:40:40.204Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764423637208,
@@ -4432,7 +4712,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:40:41.204Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764424244155,
@@ -4442,7 +4723,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:50:44.155Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764424244156,
@@ -4452,7 +4734,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:50:45.155Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764424244157,
@@ -4462,7 +4745,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:50:46.155Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764424244158,
@@ -4472,7 +4756,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:50:47.155Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764424244159,
@@ -4482,7 +4767,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:50:48.155Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764424297719,
@@ -4492,7 +4778,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:51:37.719Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764424297720,
@@ -4502,7 +4789,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:51:38.719Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764424356404,
@@ -4512,7 +4800,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:52:36.404Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764424356405,
@@ -4522,7 +4811,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:52:37.404Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764424356406,
@@ -4532,7 +4822,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T13:52:38.404Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 1764424398410,
@@ -4542,7 +4833,8 @@
       "observacao": "",
       "dataHora": "2025-11-29T14:36:12.690Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427084145,
@@ -4552,7 +4844,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:38:04.145Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427084146,
@@ -4562,7 +4855,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:38:05.145Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427084147,
@@ -4572,7 +4866,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:38:06.145Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427137715,
@@ -4582,7 +4877,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:38:57.715Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427137716,
@@ -4592,7 +4888,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:38:58.715Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427137717,
@@ -4602,7 +4899,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:38:59.715Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427137718,
@@ -4612,7 +4910,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:39:00.715Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427199653,
@@ -4622,7 +4921,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:39:59.653Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427199654,
@@ -4632,7 +4932,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:40:00.653Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427199655,
@@ -4642,7 +4943,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:40:01.653Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427199656,
@@ -4652,7 +4954,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:40:02.653Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427199657,
@@ -4662,7 +4965,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:40:03.653Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427222437,
@@ -4672,7 +4976,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:40:22.437Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427222438,
@@ -4682,7 +4987,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:40:23.437Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427300100,
@@ -4692,7 +4998,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:41:40.100Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427300101,
@@ -4702,7 +5009,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:41:41.100Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427300102,
@@ -4712,7 +5020,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:41:42.100Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427375779,
@@ -4722,7 +5031,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:42:55.779Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427375780,
@@ -4732,7 +5042,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:42:56.779Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427375781,
@@ -4742,7 +5053,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:42:57.779Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427414262,
@@ -4752,7 +5064,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:43:34.262Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427414263,
@@ -4762,7 +5075,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:43:35.262Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427414264,
@@ -4772,7 +5086,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:43:36.262Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427414265,
@@ -4782,7 +5097,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:43:37.262Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427449774,
@@ -4792,7 +5108,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:44:09.774Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427449775,
@@ -4802,7 +5119,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:44:10.774Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427449776,
@@ -4812,7 +5130,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:44:11.774Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427449777,
@@ -4822,7 +5141,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:44:12.774Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427449778,
@@ -4832,7 +5152,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:44:13.774Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427503238,
@@ -4842,7 +5163,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:45:03.238Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427503239,
@@ -4852,7 +5174,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:45:04.238Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427503240,
@@ -4862,7 +5185,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:45:05.238Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427525096,
@@ -4872,7 +5196,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:45:25.096Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427525097,
@@ -4882,7 +5207,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:45:26.096Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427525098,
@@ -4892,7 +5218,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:45:27.096Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427546814,
@@ -4902,7 +5229,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:45:46.814Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427546815,
@@ -4912,7 +5240,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:45:47.814Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427546816,
@@ -4922,7 +5251,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:45:48.814Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427546817,
@@ -4932,7 +5262,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:45:49.814Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427607368,
@@ -4942,7 +5273,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:46:47.368Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427607369,
@@ -4952,7 +5284,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:46:48.368Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427638249,
@@ -4962,7 +5295,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:47:18.249Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427638250,
@@ -4972,7 +5306,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:47:19.249Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427638251,
@@ -4982,7 +5317,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:47:20.249Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427679375,
@@ -4992,7 +5328,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:47:59.375Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427679376,
@@ -5002,7 +5339,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:48:00.375Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427679377,
@@ -5012,7 +5350,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:48:01.375Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427679378,
@@ -5022,7 +5361,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:48:02.375Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427733028,
@@ -5032,7 +5372,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:48:53.028Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427733029,
@@ -5042,7 +5383,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:48:54.028Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427733030,
@@ -5052,7 +5394,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:48:55.028Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427759445,
@@ -5062,7 +5405,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:49:19.445Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427759446,
@@ -5072,7 +5416,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:49:20.445Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427759447,
@@ -5082,7 +5427,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:49:21.445Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427759448,
@@ -5092,7 +5438,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:49:22.445Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427821586,
@@ -5102,7 +5449,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:50:21.586Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427821587,
@@ -5112,7 +5460,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:50:22.586Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427821588,
@@ -5122,7 +5471,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:50:23.586Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427868295,
@@ -5132,7 +5482,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:51:08.295Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427868296,
@@ -5142,7 +5493,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:51:09.295Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427868297,
@@ -5152,7 +5504,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:51:10.295Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427898215,
@@ -5162,7 +5515,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:51:38.215Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427898216,
@@ -5172,7 +5526,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:51:39.215Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764427898217,
@@ -5182,7 +5537,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:51:40.215Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 1764427946601,
@@ -5192,7 +5548,8 @@
       "observacao": "",
       "dataHora": "2025-11-29T14:55:21.658Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764428172349,
@@ -5202,7 +5559,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:56:12.349Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764428172350,
@@ -5212,7 +5570,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:56:13.349Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764428221980,
@@ -5222,7 +5581,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:57:01.980Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764428221981,
@@ -5232,7 +5592,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:57:02.980Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764428221982,
@@ -5242,7 +5603,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:57:03.980Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764428221983,
@@ -5252,7 +5614,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T14:57:04.980Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 1764094163358,
@@ -5262,7 +5625,8 @@
       "observacao": "",
       "dataHora": "2025-11-29T14:58:53.055Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764428654784,
@@ -5272,7 +5636,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T15:04:14.784Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764428654785,
@@ -5282,7 +5647,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T15:04:15.784Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764428654786,
@@ -5292,7 +5658,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T15:04:16.784Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764428654787,
@@ -5302,7 +5669,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T15:04:17.784Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764428719320,
@@ -5312,7 +5680,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T15:05:19.320Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764428719321,
@@ -5322,7 +5691,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T15:05:20.320Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764428788870,
@@ -5332,7 +5702,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T15:06:28.870Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764428788871,
@@ -5342,7 +5713,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T15:06:29.870Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764428884622,
@@ -5352,7 +5724,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T15:08:04.622Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764428884623,
@@ -5362,7 +5735,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T15:08:05.622Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764428884624,
@@ -5372,7 +5746,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T15:08:06.622Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764428914479,
@@ -5382,7 +5757,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T15:08:34.479Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764428914480,
@@ -5392,7 +5768,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T15:08:35.479Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "id": 1764428914481,
@@ -5402,7 +5779,8 @@
       "observacao": "Histórico reescrito",
       "dataHora": "2025-11-29T15:08:36.479Z",
       "historicoImportado": true,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 1764592676631,
@@ -5412,7 +5790,8 @@
       "dataHora": "2025-12-01T12:38:15.553Z",
       "id": 1764592701882,
       "historicoImportado": false,
-      "contatoReal": true
+      "contatoReal": true,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 2921583986,
@@ -5422,7 +5801,8 @@
       "dataHora": "2025-12-02T11:59:59.729Z",
       "id": 1764676811260,
       "historicoImportado": false,
-      "contatoReal": true
+      "contatoReal": true,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 1768806732,
@@ -5432,7 +5812,8 @@
       "dataHora": "2025-12-02T12:00:12.801Z",
       "id": 1764676825395,
       "historicoImportado": false,
-      "contatoReal": true
+      "contatoReal": true,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 2625801387,
@@ -5442,7 +5823,8 @@
       "dataHora": "2025-12-02T12:00:27.413Z",
       "id": 1764676838865,
       "historicoImportado": false,
-      "contatoReal": true
+      "contatoReal": true,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 2356666364,
@@ -5452,7 +5834,8 @@
       "dataHora": "2025-12-02T12:00:40.465Z",
       "id": 1764676849722,
       "historicoImportado": false,
-      "contatoReal": true
+      "contatoReal": true,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 3661791710,
@@ -5462,7 +5845,8 @@
       "dataHora": "2025-12-02T12:00:50.603Z",
       "id": 1764676858345,
       "historicoImportado": false,
-      "contatoReal": true
+      "contatoReal": true,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 1381982365,
@@ -5472,7 +5856,8 @@
       "dataHora": "2025-12-02T12:00:59.213Z",
       "id": 1764676869063,
       "historicoImportado": false,
-      "contatoReal": true
+      "contatoReal": true,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 3864685159,
@@ -5482,7 +5867,8 @@
       "dataHora": "2025-12-02T12:01:10.147Z",
       "id": 1764676881009,
       "historicoImportado": false,
-      "contatoReal": true
+      "contatoReal": true,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 1764093503805,
@@ -5492,7 +5878,8 @@
       "dataHora": "2025-12-02T12:01:22.001Z",
       "id": 1764676890293,
       "historicoImportado": false,
-      "contatoReal": true
+      "contatoReal": true,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 1764094027829,
@@ -5502,7 +5889,8 @@
       "dataHora": "2025-12-02T12:01:31.175Z",
       "id": 1764676904910,
       "historicoImportado": false,
-      "contatoReal": true
+      "contatoReal": true,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 3979007460,
@@ -5512,7 +5900,8 @@
       "dataHora": "2025-12-02T12:01:49.348Z",
       "id": 1764676915081,
       "historicoImportado": false,
-      "contatoReal": true
+      "contatoReal": true,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 2220600504,
@@ -5522,7 +5911,8 @@
       "dataHora": "2025-12-02T12:01:56.055Z",
       "id": 1764676926625,
       "historicoImportado": false,
-      "contatoReal": true
+      "contatoReal": true,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 1764684370920,
@@ -5532,7 +5922,8 @@
       "dataHora": "2025-12-02T14:06:50.876Z",
       "id": 1764684449820,
       "historicoImportado": false,
-      "contatoReal": true
+      "contatoReal": true,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 1764684979242,
@@ -5542,7 +5933,8 @@
       "dataHora": "2025-12-02T14:17:07.886Z",
       "id": 1764685044634,
       "historicoImportado": false,
-      "contatoReal": true
+      "contatoReal": true,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 1764685268968,
@@ -5552,7 +5944,8 @@
       "dataHora": "2025-12-02T14:21:33.715Z",
       "id": 1764685305533,
       "historicoImportado": false,
-      "contatoReal": true
+      "contatoReal": true,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 1764685453010,
@@ -5562,7 +5955,8 @@
       "dataHora": "2025-12-02T14:24:39.579Z",
       "id": 1764685488284,
       "historicoImportado": false,
-      "contatoReal": true
+      "contatoReal": true,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 1768806732,
@@ -5572,7 +5966,8 @@
       "dataHora": "2025-12-02T14:31:12.233Z",
       "id": 1764685880159,
       "historicoImportado": false,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 2781870371,
@@ -5582,7 +5977,8 @@
       "dataHora": "2025-12-02T14:41:27.685Z",
       "id": 1764686493235,
       "historicoImportado": false,
-      "contatoReal": true
+      "contatoReal": true,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 1764686862862,
@@ -5592,7 +5988,8 @@
       "dataHora": "2025-12-02T14:49:00.919Z",
       "id": 1764686949458,
       "historicoImportado": false,
-      "contatoReal": true
+      "contatoReal": true,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 1764686641179,
@@ -5602,7 +5999,8 @@
       "dataHora": "2025-12-02T14:49:31.846Z",
       "id": 1764686978218,
       "historicoImportado": false,
-      "contatoReal": true
+      "contatoReal": true,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 1764687108540,
@@ -5612,7 +6010,8 @@
       "dataHora": "2025-12-02T14:52:09.670Z",
       "id": 1764687140008,
       "historicoImportado": false,
-      "contatoReal": true
+      "contatoReal": true,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 1764687357155,
@@ -5622,7 +6021,8 @@
       "dataHora": "2025-12-02T14:56:19.820Z",
       "id": 1764687386578,
       "historicoImportado": false,
-      "contatoReal": true
+      "contatoReal": true,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 1764687693852,
@@ -5632,7 +6032,8 @@
       "dataHora": "2025-12-02T15:01:44.452Z",
       "id": 1764687709070,
       "historicoImportado": false,
-      "contatoReal": true
+      "contatoReal": true,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 1764687938444,
@@ -5642,7 +6043,8 @@
       "dataHora": "2025-12-02T15:06:16.909Z",
       "id": 1764687988569,
       "historicoImportado": false,
-      "contatoReal": true
+      "contatoReal": true,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 1549762949,
@@ -5652,7 +6054,8 @@
       "dataHora": "2025-12-02T15:58:07.665Z",
       "id": 1764691615513,
       "historicoImportado": false,
-      "contatoReal": true
+      "contatoReal": true,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 1764691708202,
@@ -5662,7 +6065,8 @@
       "dataHora": "2025-12-02T16:08:47.548Z",
       "id": 1764691735031,
       "historicoImportado": false,
-      "contatoReal": true
+      "contatoReal": true,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 3545111744,
@@ -5672,7 +6076,8 @@
       "dataHora": "2025-12-02T16:10:09.372Z",
       "id": 1764691815861,
       "historicoImportado": false,
-      "contatoReal": true
+      "contatoReal": true,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 434148315,
@@ -5682,7 +6087,8 @@
       "dataHora": "2025-12-02T16:11:28.854Z",
       "id": 1764691903122,
       "historicoImportado": false,
-      "contatoReal": true
+      "contatoReal": true,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 1549762949,
@@ -5692,7 +6098,8 @@
       "dataHora": "2025-12-02T16:15:45.975Z",
       "id": 1764692154588,
       "historicoImportado": false,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 768765477,
@@ -5702,7 +6109,8 @@
       "dataHora": "2025-12-02T16:17:14.817Z",
       "id": 1764692241209,
       "historicoImportado": false,
-      "contatoReal": true
+      "contatoReal": true,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 434148315,
@@ -5712,7 +6120,8 @@
       "dataHora": "2025-12-02T16:21:39.513Z",
       "id": 1764692507469,
       "historicoImportado": false,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 2969512470,
@@ -5722,7 +6131,8 @@
       "dataHora": "2025-12-02T16:23:24.410Z",
       "id": 1764692612292,
       "historicoImportado": false,
-      "contatoReal": true
+      "contatoReal": true,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 434148315,
@@ -5732,7 +6142,8 @@
       "dataHora": "2025-12-02T16:32:49.451Z",
       "id": 1764693175248,
       "historicoImportado": false,
-      "contatoReal": false
+      "contatoReal": false,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 1298362016,
@@ -5742,7 +6153,8 @@
       "dataHora": "2025-12-02T16:38:39.168Z",
       "id": 1764693524463,
       "historicoImportado": false,
-      "contatoReal": true
+      "contatoReal": true,
+      "meioContato": "WhatsApp"
     },
     {
       "oticaId": 1367493309,
@@ -5752,7 +6164,8 @@
       "dataHora": "2025-12-02T16:39:26.269Z",
       "id": 1764693570407,
       "historicoImportado": false,
-      "contatoReal": true
+      "contatoReal": true,
+      "meioContato": "WhatsApp"
     }
   ],
   "acoes": [],
