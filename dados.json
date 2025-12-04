@@ -1235,6 +1235,14 @@
       "uf": "RJ",
       "cidade": "Campos dos Goytacazes",
       "responsavel": ""
+    },
+    {
+      "id": 1764856394856,
+      "nome": "otica e joalheria cris",
+      "telefone": "",
+      "uf": "PR",
+      "cidade": "Medianeira",
+      "responsavel": ""
     }
   ],
   "contatos": [
@@ -6539,6 +6547,90 @@
       "dataHora": "2025-12-04T13:26:16.393Z",
       "meioContato": "Ligação",
       "id": 1764854781966,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 2376000657,
+      "atendente": "",
+      "ehResponsavel": false,
+      "status": "Primeiro Contato",
+      "observacao": "",
+      "dataHora": "2025-12-04T13:44:27.103Z",
+      "meioContato": "WhatsApp",
+      "id": 1764855879065,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 2536266525,
+      "atendente": "",
+      "ehResponsavel": false,
+      "status": "Contato com Decisor",
+      "observacao": "",
+      "dataHora": "2025-12-04T13:49:09.446Z",
+      "meioContato": "WhatsApp",
+      "id": 1764856156144,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1764427946601,
+      "atendente": "",
+      "ehResponsavel": false,
+      "status": "Retorno",
+      "observacao": "",
+      "dataHora": "2025-12-04T13:51:21.169Z",
+      "meioContato": "WhatsApp",
+      "id": 1764856292165,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1764856394856,
+      "atendente": "",
+      "ehResponsavel": false,
+      "status": "Primeiro Contato",
+      "observacao": "",
+      "dataHora": "2025-12-04T13:53:35.619Z",
+      "meioContato": "WhatsApp",
+      "id": 1764856423074,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1549762949,
+      "atendente": "",
+      "ehResponsavel": false,
+      "status": "Retorno",
+      "observacao": "",
+      "dataHora": "2025-12-04T13:55:49.115Z",
+      "meioContato": "WhatsApp",
+      "id": 1764856564255,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1764092769268,
+      "atendente": "",
+      "ehResponsavel": false,
+      "status": "Contato com Decisor",
+      "observacao": "",
+      "dataHora": "2025-12-04T13:59:03.704Z",
+      "meioContato": "WhatsApp",
+      "id": 1764856756446,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1764093150060,
+      "atendente": "",
+      "ehResponsavel": false,
+      "status": "Retorno",
+      "observacao": "",
+      "dataHora": "2025-12-04T14:04:55.968Z",
+      "meioContato": "WhatsApp",
+      "id": 1764857109692,
       "historicoImportado": false,
       "contatoReal": true
     }
