@@ -1251,6 +1251,22 @@
       "uf": "PR",
       "cidade": "Londrina",
       "responsavel": ""
+    },
+    {
+      "id": 1764866417464,
+      "nome": "Braga Ótica",
+      "telefone": "",
+      "uf": "PR",
+      "cidade": "Londrina",
+      "responsavel": ""
+    },
+    {
+      "id": 1764866865222,
+      "nome": "Ótica Lenzóptica",
+      "telefone": "",
+      "uf": "PR",
+      "cidade": "Londrina",
+      "responsavel": ""
     }
   ],
   "contatos": [
@@ -6941,6 +6957,78 @@
       "id": 1764864519260,
       "historicoImportado": false,
       "contatoReal": true
+    },
+    {
+      "oticaId": 1764866417464,
+      "atendente": "",
+      "ehResponsavel": false,
+      "status": "Primeiro Contato",
+      "observacao": "",
+      "dataHora": "2025-12-04T16:40:29.651Z",
+      "meioContato": "WhatsApp",
+      "id": 1764866434254,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1764866865222,
+      "atendente": "",
+      "ehResponsavel": false,
+      "status": "Primeiro Contato (Gatekeeper)",
+      "observacao": "",
+      "dataHora": "2025-12-04T16:48:03.725Z",
+      "meioContato": "WhatsApp",
+      "id": 1764866891274,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1764866417464,
+      "atendente": "",
+      "ehResponsavel": false,
+      "status": "Voucher Enviado",
+      "observacao": "",
+      "dataHora": "2025-12-04T16:58:40.543Z",
+      "meioContato": "WhatsApp",
+      "id": 1764867540305,
+      "historicoImportado": false,
+      "contatoReal": false
+    },
+    {
+      "oticaId": 1764866417464,
+      "atendente": "",
+      "ehResponsavel": false,
+      "status": "Contato com Decisor",
+      "observacao": "",
+      "dataHora": "2025-12-04T16:59:09.369Z",
+      "meioContato": "WhatsApp",
+      "id": 1764867559385,
+      "historicoImportado": false,
+      "contatoReal": false
+    },
+    {
+      "oticaId": 1764866417464,
+      "atendente": "",
+      "ehResponsavel": false,
+      "status": "Apresentação",
+      "observacao": "",
+      "dataHora": "2025-12-04T16:59:20.356Z",
+      "meioContato": "WhatsApp",
+      "id": 1764867567857,
+      "historicoImportado": false,
+      "contatoReal": false
+    },
+    {
+      "oticaId": 1764866417464,
+      "atendente": "",
+      "ehResponsavel": false,
+      "status": "Voucher Enviado",
+      "observacao": "",
+      "dataHora": "2025-12-04T16:59:28.793Z",
+      "meioContato": "WhatsApp",
+      "id": 1764867577485,
+      "historicoImportado": false,
+      "contatoReal": false
     }
   ],
   "acoes": [],
