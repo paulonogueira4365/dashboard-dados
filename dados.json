@@ -6195,18 +6195,6 @@
       "contatoReal": true
     },
     {
-      "oticaId": 2356666364,
-      "atendente": "",
-      "ehResponsavel": false,
-      "status": "Cadastro Realizado",
-      "observacao": "",
-      "dataHora": "2025-12-04T11:30:07.671Z",
-      "meioContato": "WhatsApp",
-      "id": 1764847822860,
-      "historicoImportado": false,
-      "contatoReal": true
-    },
-    {
       "oticaId": 434148315,
       "atendente": "",
       "ehResponsavel": false,
@@ -6311,6 +6299,42 @@
       "dataHora": "2025-12-04T11:48:08.227Z",
       "meioContato": "WhatsApp",
       "id": 1764848895148,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1764686383487,
+      "atendente": "",
+      "ehResponsavel": false,
+      "status": "",
+      "observacao": "",
+      "dataHora": "2025-12-04T12:20:37.517Z",
+      "meioContato": "WhatsApp",
+      "id": 1764850843588,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 2921583986,
+      "atendente": "",
+      "ehResponsavel": false,
+      "status": "",
+      "observacao": "",
+      "dataHora": "2025-12-04T12:23:00.711Z",
+      "meioContato": "WhatsApp",
+      "id": 1764850986238,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 2356666364,
+      "atendente": "",
+      "ehResponsavel": false,
+      "status": "",
+      "observacao": "",
+      "dataHora": "2025-12-04T12:24:58.729Z",
+      "meioContato": "WhatsApp",
+      "id": 1764851103020,
       "historicoImportado": false,
       "contatoReal": true
     }
