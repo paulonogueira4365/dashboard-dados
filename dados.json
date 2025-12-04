@@ -1211,6 +1211,30 @@
       "uf": "PR",
       "cidade": "Cerro Azul",
       "responsavel": "Fatima"
+    },
+    {
+      "id": 1764853492749,
+      "nome": "DINIZ ",
+      "telefone": "",
+      "uf": "RJ",
+      "cidade": "Rio de Janeiro",
+      "responsavel": ""
+    },
+    {
+      "id": 1764853521850,
+      "nome": "ótica  braga",
+      "telefone": "",
+      "uf": "CE",
+      "cidade": "Maranguape",
+      "responsavel": ""
+    },
+    {
+      "id": 1764853771869,
+      "nome": "Otica Waldir",
+      "telefone": "",
+      "uf": "RJ",
+      "cidade": "Campos dos Goytacazes",
+      "responsavel": ""
     }
   ],
   "contatos": [
@@ -6335,6 +6359,186 @@
       "dataHora": "2025-12-04T12:24:58.729Z",
       "meioContato": "WhatsApp",
       "id": 1764851103020,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1367493309,
+      "atendente": "",
+      "ehResponsavel": false,
+      "status": "",
+      "observacao": "",
+      "dataHora": "2025-12-04T12:26:00.312Z",
+      "meioContato": "WhatsApp",
+      "id": 1764851165743,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1564983980,
+      "atendente": "",
+      "ehResponsavel": false,
+      "status": "",
+      "observacao": "",
+      "dataHora": "2025-12-04T12:28:42.522Z",
+      "meioContato": "WhatsApp",
+      "id": 1764851325738,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1587119114,
+      "atendente": "",
+      "ehResponsavel": false,
+      "status": "",
+      "observacao": "",
+      "dataHora": "2025-12-04T12:32:02.910Z",
+      "meioContato": "WhatsApp",
+      "id": 1764851531466,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 262795788,
+      "atendente": "",
+      "ehResponsavel": false,
+      "status": "",
+      "observacao": "",
+      "dataHora": "2025-12-04T12:35:37.508Z",
+      "meioContato": "WhatsApp",
+      "id": 1764851744187,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 4064721342,
+      "atendente": "",
+      "ehResponsavel": false,
+      "status": "",
+      "observacao": "",
+      "dataHora": "2025-12-04T12:36:16.314Z",
+      "meioContato": "WhatsApp",
+      "id": 1764851781767,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 3934007645,
+      "atendente": "",
+      "ehResponsavel": false,
+      "status": "",
+      "observacao": "",
+      "dataHora": "2025-12-04T12:39:10.052Z",
+      "meioContato": "WhatsApp",
+      "id": 1764851955351,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1065975262,
+      "atendente": "",
+      "ehResponsavel": false,
+      "status": "",
+      "observacao": "",
+      "dataHora": "2025-12-04T12:40:17.450Z",
+      "meioContato": "WhatsApp",
+      "id": 1764852024237,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 995398192,
+      "atendente": "",
+      "ehResponsavel": false,
+      "status": "",
+      "observacao": "",
+      "dataHora": "2025-12-04T12:55:59.552Z",
+      "meioContato": "WhatsApp",
+      "id": 1764852963527,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1609969125,
+      "atendente": "",
+      "ehResponsavel": false,
+      "status": "",
+      "observacao": "",
+      "dataHora": "2025-12-04T12:56:17.729Z",
+      "meioContato": "WhatsApp",
+      "id": 1764852982330,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1609969125,
+      "atendente": "",
+      "ehResponsavel": false,
+      "status": "",
+      "observacao": "",
+      "dataHora": "2025-12-04T12:58:32.478Z",
+      "meioContato": "WhatsApp",
+      "id": 1764853124301,
+      "historicoImportado": false,
+      "contatoReal": false
+    },
+    {
+      "oticaId": 1764853492749,
+      "atendente": "",
+      "ehResponsavel": false,
+      "status": "Primeiro Contato",
+      "observacao": "",
+      "dataHora": "2025-12-04T13:05:09.980Z",
+      "meioContato": "WhatsApp",
+      "id": 1764853518324,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1764853521850,
+      "atendente": "",
+      "ehResponsavel": false,
+      "status": "Primeiro Contato",
+      "observacao": "",
+      "dataHora": "2025-12-04T13:07:05.575Z",
+      "meioContato": "WhatsApp",
+      "id": 1764853632637,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1764853771869,
+      "atendente": "",
+      "ehResponsavel": false,
+      "status": "Primeiro Contato",
+      "observacao": "",
+      "dataHora": "2025-12-04T13:11:45.741Z",
+      "meioContato": "WhatsApp",
+      "id": 1764853910654,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1764853771869,
+      "atendente": "",
+      "ehResponsavel": false,
+      "status": "Primeiro Contato",
+      "observacao": "",
+      "dataHora": "2025-12-04T13:13:21.714Z",
+      "meioContato": "WhatsApp",
+      "id": 1764854006035,
+      "historicoImportado": false,
+      "contatoReal": false
+    },
+    {
+      "oticaId": 1764592676631,
+      "atendente": "",
+      "ehResponsavel": false,
+      "status": "",
+      "observacao": "",
+      "dataHora": "2025-12-04T13:26:16.393Z",
+      "meioContato": "Ligação",
+      "id": 1764854781966,
       "historicoImportado": false,
       "contatoReal": true
     }
