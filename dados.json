@@ -1267,6 +1267,30 @@
       "uf": "PR",
       "cidade": "Londrina",
       "responsavel": ""
+    },
+    {
+      "id": 1764874588332,
+      "nome": "Óculos de Fábrica",
+      "telefone": "",
+      "uf": "RS",
+      "cidade": "",
+      "responsavel": ""
+    },
+    {
+      "id": 1764874676074,
+      "nome": " Safira Ótica e Joalheria",
+      "telefone": "",
+      "uf": "RS",
+      "cidade": "",
+      "responsavel": ""
+    },
+    {
+      "id": 1764874786482,
+      "nome": "Mais Bella Ótica",
+      "telefone": "",
+      "uf": "RS",
+      "cidade": "",
+      "responsavel": ""
     }
   ],
   "contatos": [
@@ -7029,6 +7053,30 @@
       "id": 1764867577485,
       "historicoImportado": false,
       "contatoReal": false
+    },
+    {
+      "oticaId": 1764874588332,
+      "atendente": "",
+      "ehResponsavel": false,
+      "status": "Primeiro Contato",
+      "observacao": "",
+      "dataHora": "2025-12-04T18:56:44.068Z",
+      "meioContato": "WhatsApp",
+      "id": 1764874632043,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1764874676074,
+      "atendente": "",
+      "ehResponsavel": false,
+      "status": "Primeiro Contato",
+      "observacao": "",
+      "dataHora": "2025-12-04T18:58:50.018Z",
+      "meioContato": "WhatsApp",
+      "id": 1764874751415,
+      "historicoImportado": false,
+      "contatoReal": true
     }
   ],
   "acoes": [],
