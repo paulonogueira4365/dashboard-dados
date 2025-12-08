@@ -7233,6 +7233,30 @@
       "id": 1764957651613,
       "historicoImportado": false,
       "contatoReal": true
+    },
+    {
+      "oticaId": 1764684370920,
+      "atendente": "",
+      "ehResponsavel": false,
+      "status": "Retorno",
+      "observacao": "",
+      "dataHora": "2025-12-08T11:44:49.613Z",
+      "meioContato": "WhatsApp",
+      "id": 1765194297472,
+      "historicoImportado": false,
+      "contatoReal": true
+    },
+    {
+      "oticaId": 1764092923928,
+      "atendente": "",
+      "ehResponsavel": false,
+      "status": "Retorno",
+      "observacao": "",
+      "dataHora": "2025-12-08T11:45:08.222Z",
+      "meioContato": "WhatsApp",
+      "id": 1765194319211,
+      "historicoImportado": false,
+      "contatoReal": true
     }
   ],
   "acoes": [],
