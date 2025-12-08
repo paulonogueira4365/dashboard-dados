@@ -7260,6 +7260,42 @@
     }
   ],
   "acoes": [],
+  "representantes": [
+    {
+      "id": 1765233478292,
+      "nome": "Driel ",
+      "email": "",
+      "estados": [
+        "PR"
+      ]
+    },
+    {
+      "id": 1765233496060,
+      "nome": "Felipe",
+      "email": "",
+      "estados": [
+        "SC"
+      ]
+    },
+    {
+      "id": 1765233517946,
+      "nome": "Nilton",
+      "email": "",
+      "estados": [
+        "RJ",
+        "ES",
+        "MG"
+      ]
+    },
+    {
+      "id": 1765233550494,
+      "nome": "Everton",
+      "email": "",
+      "estados": [
+        "RS"
+      ]
+    }
+  ],
   "financasPessoais": {
     "2025-12": {
       "gastosFixos": [
